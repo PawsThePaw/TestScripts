@@ -1,0 +1,198 @@
+--[[
+================================================================================
+                        PLUTONIUM SOFTWARE LICENSE
+                             Version 1.0.0
+================================================================================
+
+Copyright (c) 2026 pawsthepaw. All Rights Reserved.
+
+This software, "Plutonium" (hereinafter referred to as "the Software"), is the
+exclusive intellectual property of pawsthepaw (hereinafter referred to as "the
+Owner" or "the Developer"). This license governs all use, access, interaction,
+and distribution of the Software and any associated files, scripts, assets,
+documentation, or derivatives thereof.
+
+By accessing, using, installing, copying, or otherwise interacting with the
+Software in any capacity, you (hereinafter referred to as "the User") agree to
+be fully and unconditionally bound by the terms of this license.
+
+IF YOU DO NOT AGREE TO THESE TERMS, YOU MUST IMMEDIATELY CEASE ALL USE OF THE
+SOFTWARE AND DESTROY ANY COPIES IN YOUR POSSESSION.
+
+================================================================================
+                              GRANT OF LICENSE
+================================================================================
+
+Subject to strict compliance with the terms of this license, the Owner grants
+the User a limited, non-exclusive, non-transferable, non-sublicensable, and
+revocable license to use the Software solely for its intended purpose as
+explicitly authorized by the Owner in writing.
+
+================================================================================
+                         PROHIBITED ACTIVITIES
+================================================================================
+
+The following actions are STRICTLY FORBIDDEN and constitute a material breach
+of this license agreement:
+
+    1.  REVERSE ENGINEERING
+        The User shall not, under any circumstances, reverse engineer,
+        decompile, disassemble, decode, decrypt, or otherwise attempt to
+        derive the source code, algorithms, logic, structure, or inner
+        workings of the Software or any component thereof, whether in whole
+        or in part, by any means whatsoever.
+
+    2.  TAMPERING & MODIFICATION
+        The User shall not modify, alter, adapt, translate, patch, correct,
+        improve, or otherwise change the Software, its code, its behavior,
+        its output, or any associated files in any way without express prior
+        written consent from the Owner.
+
+    3.  UNAUTHORIZED DISTRIBUTION
+        The User shall not sell, resell, sublicense, lease, rent, lend,
+        gift, share, publish, transmit, broadcast, upload, or otherwise
+        distribute the Software or any portion thereof to any third party,
+        whether for compensation or free of charge, through any medium or
+        channel.
+
+    4.  REPRODUCTION & COPYING
+        The User shall not reproduce, duplicate, mirror, or create copies of
+        the Software or any part of it beyond what is strictly necessary for
+        authorized personal use, as permitted by the Owner.
+
+    5.  BYPASSING SECURITY MEASURES
+        The User shall not circumvent, disable, remove, or otherwise interfere
+        with any security mechanisms, access controls, license verification
+        systems, authentication layers, or protection features embedded within
+        or associated with the Software.
+
+    6.  MALICIOUS USE
+        The User shall not use the Software to engage in any unlawful,
+        harmful, fraudulent, abusive, or malicious activity, including but
+        not limited to exploiting vulnerabilities, bypassing authentication,
+        or causing harm to any person, system, or organization.
+
+    7.  CLAIMING OWNERSHIP
+        The User shall not claim authorship, ownership, or any intellectual
+        property rights over the Software or any component thereof. The User
+        shall not misrepresent the origin of the Software in any context,
+        public or private.
+
+    8.  DERIVATIVE WORKS
+        The User shall not create derivative works, forks, ports, adaptations,
+        spin-offs, or works substantially based upon the Software without
+        express prior written authorization from the Owner.
+
+    9.  UNAUTHORIZED INTEGRATION
+        The User shall not incorporate, embed, merge, or otherwise integrate
+        the Software or any portion of its code into any other software,
+        product, service, library, or framework without the Owner's prior
+        written consent.
+
+    10. OBFUSCATION & REPACKAGING
+        The User shall not obfuscate, repackage, re-brand, rename, or
+        otherwise disguise the Software or its components and present them
+        as an original or independent work.
+
+    11. AUTOMATED ANALYSIS
+        The User shall not subject the Software to automated analysis,
+        scraping, fuzzing, dynamic instrumentation, memory inspection, or
+        any form of technical profiling intended to uncover its internal
+        mechanisms.
+
+    12. NETWORK INTERCEPTION
+        The User shall not intercept, monitor, log, spoof, or tamper with
+        any network communications made by or to the Software, including
+        API calls, authentication requests, or license validation traffic.
+
+    13. SUBLICENSING
+        The User shall not sublicense any rights granted under this license
+        to any third party without explicit, written authorization from the
+        Owner.
+
+    14. COMMERCIAL EXPLOITATION
+        The User shall not use the Software for any commercial purpose,
+        profit-generating activity, or monetized service without separate
+        written agreement with the Owner.
+
+    15. REMOVAL OF NOTICES
+        The User shall not remove, alter, obscure, or falsify any copyright
+        notices, license headers, attribution text, watermarks, author
+        credits, or proprietary markings contained within the Software.
+
+================================================================================
+                        INTELLECTUAL PROPERTY
+================================================================================
+
+All rights, title, and interest in and to the Software, including but not
+limited to copyrights, trade secrets, trademarks, and patents, remain solely
+and exclusively with the Owner, pawsthepaw. No rights are transferred to the
+User under this license except as expressly stated herein. Any feedback,
+suggestions, or contributions provided by the User regarding the Software shall
+become the sole property of the Owner without any obligation of compensation.
+
+================================================================================
+                       DISCLAIMER OF WARRANTIES
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, ACCURACY, RELIABILITY, OR NON-INFRINGEMENT. THE
+OWNER MAKES NO REPRESENTATION OR GUARANTEE THAT THE SOFTWARE WILL BE
+ERROR-FREE, UNINTERRUPTED, OR FREE OF HARMFUL COMPONENTS.
+
+THE USER ASSUMES ALL RISK ARISING FROM THE USE OF THE SOFTWARE.
+
+================================================================================
+                        LIMITATION OF LIABILITY
+================================================================================
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE OWNER SHALL NOT BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+EXEMPLARY DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO LOSS OF DATA,
+LOSS OF PROFITS, LOSS OF GOODWILL, OR BUSINESS INTERRUPTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF THE
+OWNER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+================================================================================
+                           TERMINATION
+================================================================================
+
+This license is effective upon first use and remains in force until terminated.
+The Owner reserves the right to terminate this license immediately and without
+notice upon any breach of its terms by the User. Upon termination, the User
+must immediately cease all use of the Software and permanently destroy all
+copies and associated materials in their possession. Termination does not
+limit the Owner's right to pursue any other remedies available at law or in
+equity.
+
+================================================================================
+                       GOVERNING LAW & ENFORCEMENT
+================================================================================
+
+This license shall be governed by and construed in accordance with applicable
+laws. Any violation of this license may result in civil and/or criminal
+prosecution to the fullest extent permitted by law. The Owner reserves the
+right to seek injunctive relief, damages, and any other remedies available
+without limitation.
+
+================================================================================
+                           ENTIRE AGREEMENT
+================================================================================
+
+This license constitutes the entire agreement between the Owner and the User
+concerning the Software and supersedes all prior agreements, understandings,
+representations, or negotiations, whether written or oral, relating to the
+subject matter hereof.
+
+================================================================================
+                            CONTACT
+================================================================================
+
+Developer / Owner:  pawsthepaw
+For licensing inquiries or permissions, contact the Owner directly.
+
+================================================================================
+          © 2026 pawsthepaw — All Rights Reserved. Plutonium Software.
+================================================================================
+--]]
